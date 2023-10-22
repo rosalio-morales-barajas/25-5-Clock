@@ -1,0 +1,10 @@
+body {
+    max-width: 700px;
+    margin: 0 auto;
+    heigth: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
